@@ -1,4 +1,4 @@
-What's Up Bro Eelcome to NRGNOYON WEBSITE
+☺️What's Up Bro Eelcome to 💙NRGNOYON💙 WEBSITE
 <html lang="bn">
 <head>
     <meta charset="UTF-8">
@@ -52,10 +52,4 @@ What's Up Bro Eelcome to NRGNOYON WEBSITE
     </div>
 
     <p style="margin-top:80px; opacity:0.7;">© NRG NOYON • All Rights Reserved</p>
-margin: 0;
-    padding: 0;
-    height: 100vh;
-    background-image: url('https://i.imgur.com/zrtF3.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;opacity: 0.5; 
+

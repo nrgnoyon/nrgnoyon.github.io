@@ -1,4 +1,4 @@
-☺️What's Up Bro Eelcome to 💙NRGNOYON💙 WEBSITE
+☺️What's Up Bro Welcome to 💙NRGNOYON💙 WEBSITE 
 <html lang="bn">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +45,7 @@
 </head>
 <body>
     <h1>NRG NOYON</h1>
-    <p class="title">Work Engineer+Music Lover Tech Lover+Bike Lover+Crypto Miner All IN One ONRG NOYON</p>
+    <p class="title">Work At Unemployed Engineer+Music Lover Tech Lover+Bike Lover+Crypto Miner All IN One ONRG NOYON</p>
 
     <div class="social">
         <a href="https://www.facebook.com/share/1CoB3oZ6S7/" target="_blank" class="fb">Facebook</a>

@@ -45,7 +45,7 @@
 </head>
 <body>
     <h1>NRG NOYON</h1>
-    <p class="title">Work At Unemployed Engineer+Music Lover Tech Lover+Bike Lover+Crypto Miner All IN One NRG NOYON</p>
+    <p class="title">"As an aspiring technician with a strong passion for networking and IT, I'm actively seeking entry-level opportunities with an Internet Service Provider to apply my skills and grow in the tech industry."+Music Lover Tech Lover+Bike+Car Lover+Crypto Miner All IN One NRG NOYON</p>
 
     <div class="social">
         <a href="https://www.facebook.com/share/1CoB3oZ6S7/" target="_blank" class="fb">Facebook</a>
